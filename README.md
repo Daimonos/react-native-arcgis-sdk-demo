@@ -14,7 +14,9 @@ The demo is limited to the following functionalities:
   - Center the map on the device location (in JavaScript)
   - Display the map center and scale (respond to map touch events and JavaScript/Objective-C navigation)
 
-The application has only been tested with an iPhone 5 and a Nexus 5. This repository is provided without support as a proof of concept in the context of a presentation given at the Esri Developer Summit 2016 "Native Apps in JavaScript with React Native: Lessons From a Prototype". Feel free to get in touch if you are interested.
+The application has only been tested with an iPhone 5 and a Nexus 5. This repository is provided as is, with no support, as a proof of concept in the context of a presentation given at the Esri Developer Summit 2016 "Native Apps in JavaScript with React Native: Lessons From a Prototype". Feel free to get in touch if you are interested.
+
+![untitled](https://cloud.githubusercontent.com/assets/994078/13557959/2d4eab42-e3ad-11e5-86e7-4d580cb51abc.png)
 
 ## Setup
 
