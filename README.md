@@ -33,7 +33,7 @@ The following setup has only been tested on Mac OS X 10.10.5. React Native has [
 - If the project doesn't build it may be because the installation of the [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) through Maven has failed, if this seems like your issue, installing it manually may resolve the issue [see the installation documentation](https://developers.arcgis.com/android/guide/install-and-set-up.htm) (make sure to use the default location for the install)
 
 ## Resources
-- https://github.com/glazou/awesome-react-native
-- https://github.com/glazou/awesome-react
+- https://github.com/jondot/awesome-react-native
+- https://github.com/enaqx/awesome-react
 - https://facebook.github.io/react-native/docs/native-components-android.html
 - https://facebook.github.io/react-native/docs/native-components-ios.html
