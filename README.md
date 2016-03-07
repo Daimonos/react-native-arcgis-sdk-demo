@@ -1,6 +1,6 @@
 # ArcGIS Runtime SDK for Android and iOS in React Native
 
-This repository is a proof of concept that illustrate the feasibility of exposing ArcGIS Runtime SDK for Android and iOS in React Native. 
+This repository is a proof of concept that demonstrate the feasibility of using ArcGIS Runtime SDK for Android and iOS in a React Native app. 
 
 The demo is limited to the following functionalities:
 - on Android
@@ -39,3 +39,5 @@ The following setup has only been tested on Mac OS X 10.10.5. React Native has [
 - https://github.com/enaqx/awesome-react
 - https://facebook.github.io/react-native/docs/native-components-android.html
 - https://facebook.github.io/react-native/docs/native-components-ios.html
+- https://developers.arcgis.com/ios/
+- https://developers.arcgis.com/android/ 
